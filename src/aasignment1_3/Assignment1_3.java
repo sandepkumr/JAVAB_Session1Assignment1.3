@@ -33,6 +33,8 @@ public class Assignment1_3 {
 		System.out.println("| "+a+" | "+b+" |   "+bitwiseAnd+"    |   "+logicalAnd+"    |");
 		System.out.println("+---+---+------------+------------+");
 
+		sc.close();
+
 	}
 
 }//class closed
